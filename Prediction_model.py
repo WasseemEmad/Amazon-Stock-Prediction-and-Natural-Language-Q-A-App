@@ -21,7 +21,7 @@ def scaled(data, scaler):
     # Apply the scaler
     scaled_data = scaler.transform(data_reshaped)
     
-    # Reshape back to (693, 60, 1) if needed
+   
     scaled_data = scaled_data.reshape(693, 60, 1)
     return scaled_data
 
