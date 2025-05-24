@@ -8,4 +8,4 @@ langchain-experimental
 openai
 pandas
 numpy
-
+tensorflow
