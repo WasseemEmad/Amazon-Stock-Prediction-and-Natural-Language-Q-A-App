@@ -8,4 +8,5 @@ langchain-experimental
 openai
 pandas
 numpy
-tensorflow
+tensorflow==2.13.0
+
